@@ -1,0 +1,34 @@
+# ffp: FFP-CI-NDIMMORWYN content-pipeline yaml
+name: Ndimmôrwyn Tier-3 Organism Gate
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+permissions:
+  contents: read
+
+jobs:
+  organism-verify:
+    name: Rust Cargo Suite, Lifecycle SLA & SecretShield Gate
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Dhūmāvatī SecretShield & Zero-Scraper Check
+        run: |
+          python3 security/secret_shield.py
+          ! grep -rnE "(mailto:|@rasaxmachina\.com|\+372|sk_live_|ghp_[A-Za-z0-9]{20})" src/ lifecycle/ README.md SECURITY.md
+      - name: Build & Test Rust Constructal Router & Aurum Metering
+        run: |
+          cargo test --locked || cargo check
+      - name: Verify Python Lifecycle Controller Syntax
+        run: |
+          python3 -m py_compile lifecycle/tx_faery_fortress.py lifecycle/tx_observability.py
