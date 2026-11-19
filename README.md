@@ -114,3 +114,14 @@ python3 security/secret_shield.py
 - **RFC 9116 Vulnerability Disclosure**: [`SECURITY.md`](./SECURITY.md) · [trust.rasaxmachina.com](https://trust.rasaxmachina.com)
 - **Official Media, PR & Canonical Logos**: [rasaxmachina.com/press](https://rasaxmachina.com/press)
 - **Encrypted Founder Dispatch**: [rasaxmachina.com/collins#encrypted-dispatch](https://rasaxmachina.com/collins#encrypted-dispatch) · [rasaxmachina.com/whatsapp](https://rasaxmachina.com/whatsapp)
+
+
+---
+
+## Sovereign Clearinghouse Unit: `AlatyrAtal` (`$ALTR` / `$ALAT`)
+
+`Ndimmôrwyn` settles agentic compute, merchant cash-advance (MCA) underwriting, and 4-party prompt/memory royalties through its dedicated Sacred-Stone Oracular Clearinghouse unit **[`Tianxia-Core/AlatyrAtal`](https://github.com/Tianxia-Core/AlatyrAtal)**:
+
+- **`Alatyr` Layer (Inverse-Exhaust Metering)**: Rewards `AK-Zip` (`500 -> 2` token D-SPG kenning) & `EGO` mutual-information-per-millijoule density over verbose token bloat, with `< €0.50` `Ebhu Njom` micro-inference routed via a `<= 14 ms` fast-lane.
+- **4-Stratum Oracular Engine**: `Stratum 0` Basalt Gate (`CR >= 1.15`, `HHI <= 0.65`, `ExogenousLP >= 60%`) → `Stratum 1` 1D Kalman TWAP & MCA default-risk scorer → `Stratum 2` `Jivaslokan` `W_1` trajectory drift & `AEGIS-9` `proxy_kill` → `Stratum 3` `ARSI` counterfactual span ablation (`I_Reasonwash <= 0.25`).
+- **`Atal` Layer (`Akwanshi` Monolith & `Nsibidi` Ledger)**: Asymmetric `EFEMERA`/`ETAMANGA` `30.0%` burn-mint equilibrium, `ERC-2981` `40% / 25% / 25% / 10%` provenance royalties, Post-July 1, 2026 EU `MiCA` Title II firewall, and Carnatic `Konnakol [3,2]` coprime Gati TDMA scheduling (`units/alatyratal.json`).

@@ -1,0 +1,14 @@
+{
+  "unit_id": "NDIMMORWYN-UNIT-ALATYRATAL",
+  "name": "AlatyrAtal",
+  "tickers": ["$ALTR", "$ALAT"],
+  "repository": "https://github.com/Tianxia-Core/AlatyrAtal",
+  "version": "1.0.0",
+  "ffp_count": 4,
+  "ffp_bound_max": 8,
+  "layers": {
+    "alatyr": "Slavic Spark of Svarog — Inverse-Exhaust AK-Zip (500->2 token D-SPG) & EGO mutual-information/mJ inference metering",
+    "oracular_4stratum": "0.1ms Atal Basalt Gate -> 2-8ms 1D Kalman TWAP & MCA Underwriting -> 9-85ms AK-Shield & Jivaslokan W1 Drift -> 400ms+ ARSI Counterfactual Anti-Reasonwashing",
+    "atal": "Manyu Akwanshi Basalt Monolith & 16-bit Nsibidi Glyphs — Dual-Token EFEMERA/ETAMANGA Burn-Mint (30% buy-and-lock), ERC-2981 40/25/25/10 Provenance Split, Post-MiCA Reg 2023/1114 Firewall & Konnakol [3,2] TDMA Edge Scheduler"
+  }
+}
